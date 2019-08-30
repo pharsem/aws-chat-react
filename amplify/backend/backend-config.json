@@ -1,12 +1,13 @@
 {
 	"auth": {
-		"auth": {
+		"chatql1b188c09": {
 			"service": "Cognito",
-			"providerPlugin": "awscloudformation"
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
 		}
 	},
 	"api": {
-		"allamplifychatt": {
+		"chatql": {
 			"service": "AppSync",
 			"providerPlugin": "awscloudformation",
 			"output": {

@@ -1,0 +1,19 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "chatql-env-20190830085536-authRole",
+            "UnauthRoleArn": "arn:aws:iam::474166385224:role/chatql-env-20190830085536-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::474166385224:role/chatql-env-20190830085536-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "chatql-env-20190830085536-deployment",
+            "UnauthRoleName": "chatql-env-20190830085536-unauthRole",
+            "StackName": "chatql-env-20190830085536",
+            "StackId": "arn:aws:cloudformation:us-east-1:474166385224:stack/chatql-env-20190830085536/2b036fe0-caf3-11e9-93ec-1251e602a9c6"
+        },
+        "categories": {
+            "auth": {
+                "chatql1b188c09": {}
+            }
+        }
+    }
+}
